@@ -21,4 +21,4 @@ Welcome to the Python Programming Collection repository! This repository contain
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/python-programming-collection.git
+git clone https://github.com/Binilyas/My_Python_Projects.git
