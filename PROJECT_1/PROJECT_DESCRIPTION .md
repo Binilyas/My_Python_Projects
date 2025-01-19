@@ -24,5 +24,4 @@
 1. Python programming
 2. NumPy, Pandas, Matplotlib, and Seaborn libraries
 3. Data analysis and visualization
-
 ### Here is [The Project](/PROJECT_1/Generating_and_Visualization%20.ipynb) 
